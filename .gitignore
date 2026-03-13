@@ -25,5 +25,5 @@ cred.properties
 hs_err_pid*
 replay_pid*
 
-output/
+out/
 .idea/
